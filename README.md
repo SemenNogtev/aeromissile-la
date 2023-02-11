@@ -9,3 +9,5 @@ Model of an air-to-air missile
 Визуализация полета возможна с помощью блока VR Sink или с помощью симулятора FlightGear. Для первого варианта создана модель VRMLaeromissile.WRL. Второй вариант позволяет отразить и ракету, и носитель. Для этого нужно запустить FlightGear в режиме мультиплеера, открыв файлы runfgaeromissilela.bat и runfgla.bat.
 
 ![image](https://user-images.githubusercontent.com/90692406/218137270-88e716ff-83ee-4b6a-a98b-30fddff6cbee.png)
+
+https://user-images.githubusercontent.com/90692406/218246178-3f1a684d-594f-4bf2-8022-1a6674845e9c.mp4
